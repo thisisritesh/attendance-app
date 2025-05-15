@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311485991159",
+    "project_id": "chat-app-da986",
+    "storage_bucket": "chat-app-da986.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311485991159:android:a9dc6991d7bbbe02926bf2",
+        "android_client_info": {
+          "package_name": "com.kaviriteshgupta.attendanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzrOEzO9ktO8-i3Z7ARRyDpsICJUKe-8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311485991159:android:f30ec0aa3869d8b8926bf2",
+        "android_client_info": {
+          "package_name": "com.kaviriteshgupta.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzrOEzO9ktO8-i3Z7ARRyDpsICJUKe-8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
